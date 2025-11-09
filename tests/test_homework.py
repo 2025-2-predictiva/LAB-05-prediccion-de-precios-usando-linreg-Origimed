@@ -26,14 +26,14 @@ METRICS = [
         "dataset": "train",
         "r2": 0.889,
         "mse": 5.950,
-        "mad": 1.600,
+        "mad": 1.630,
     },
     {
         "type": "metrics",
         "dataset": "test",
         "r2": 0.728,
         "mse": 32.910,
-        "mad": 2.430,
+        "mad": 2.480,
     },
 ]
 
